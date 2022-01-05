@@ -54,14 +54,14 @@ width: 100%;
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 96%;
+    width: 94%;
 }
 }
 
 @media screen and (max-width: 600px){
   .owl-carousel .owl-item img {
     display: block;
-    width: 96%;
+    width: 94%;
 }
 
 .owl-prev i, .owl-next i {
